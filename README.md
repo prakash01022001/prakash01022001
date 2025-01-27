@@ -1,4 +1,4 @@
-# ![Logo](https://path-to-your-logo.png) Prakash Datey
+# Prakash Datey
 
 ### 💻 Full-Stack Developer | Web Enthusiast | Lifelong Learner  
 _Betul, Madhya Pradesh, India_  
