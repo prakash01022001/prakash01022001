@@ -31,8 +31,8 @@ I am a passionate **Full-Stack Developer** with a knack for creating dynamic and
 An interactive music application with a user-friendly interface and enhanced UX.
 
 ### 🍽️ [React-Travel-Book](http://localhost:5173/)  
-**Technologies:** HTML, CSS, Javascript,react.js  
-Designed for convenient food delivery with a focus on busy professionals and health-conscious consumers.
+**Technologies:** HTML, CSS, Javascript,React.js  
+React’s state management ensures real-time updates for any user interactions or input.
 
 ### 🛒 [Blinkit - Grocery Delivery](https://prakash01022001.github.io/Blinkit-Mall/)  
 **Technologies:** HTML, CSS, JavaScript  
