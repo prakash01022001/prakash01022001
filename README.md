@@ -30,7 +30,7 @@ I am a passionate **Full-Stack Developer** with a knack for creating dynamic and
 **Technologies:** HTML, CSS, JavaScript  
 An interactive music application with a user-friendly interface and enhanced UX.
 
-### 🍽️ [React-Travel-Book](http://localhost:5173/)  
+### 🍽️ [React-Travel-Book](https://snazzy-medovik-5bb231.netlify.app/)  
 **Technologies:** HTML, CSS, Javascript,React.js  
 React’s state management ensures real-time updates for any user interactions or input.
 
